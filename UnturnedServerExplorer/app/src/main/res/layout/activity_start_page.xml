@@ -106,6 +106,7 @@
                 android:layout_weight="1"
                 android:text="@string/settings"
                 android:visibility="visible" />
+                <!--android:onClick="clicksettings"-->
 
         </LinearLayout>
     </ScrollView>
